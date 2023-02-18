@@ -1,2 +1,7 @@
 .DS_Store
+
 dataset/.DS_Store
+
+code/.DS_Store
+code/.ipynb_checkpoints
+code/.jupyter
